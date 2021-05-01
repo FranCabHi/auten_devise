@@ -1,7 +1,9 @@
-GitHub: https://github.com/FranCabHi/auten_devise
-Heroku: https://fathomless-ridge-64911.herokuapp.com
+### GitHub: https://github.com/FranCabHi/auten_devise
 
-#####
+Usuario admin: test1@example.com
+password: password
+
+### Heroku: https://fathomless-ridge-64911.herokuapp.com
 
 # Actividad Presencial I
 
